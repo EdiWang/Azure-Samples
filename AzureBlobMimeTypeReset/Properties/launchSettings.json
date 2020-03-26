@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureBlobMimeTypeReset": {
+      "commandName": "Project",
+      "commandLineArgs": "-n ediwangdemostorage -k 5NA2kNM+DpEZmrLt1KEgiBFUyU/k4JYfFi2JkL191ezu6bC9B2/K5lCc/EHp5Uz05H9s+PE7ZAVGVNmXkiKHqQ== -c picam"
+    }
+  }
+}
